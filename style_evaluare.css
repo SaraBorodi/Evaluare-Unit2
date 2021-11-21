@@ -1,0 +1,36 @@
+h1.titlu {border-style: solid;
+          border-color:black;}
+h1.titlu {
+  background-color:#CC9999;
+  color:red;
+  
+}
+
+h1.subliniere{ color:brown;
+ text-decoration: underline;
+ text-decoration-color: brown;
+}
+
+p.dreapta {
+  text-align: right;
+  color:orange;
+  
+}
+table, th, td {
+
+  border: 1px solid red;
+}
+
+p.c {
+  white-space: pre;
+}
+
+div.culoare{
+border: 1px solid red;
+border-color: red;
+background-color: LightGray;}
+
+div.gri{
+border: 1px solid red;
+border-color: red;
+background-color: Gray;}
